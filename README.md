@@ -1,5 +1,5 @@
-# copywriting-portfolio
-Simulasi proyek copywriting untuk 3 brand fiktif di berbagai industri: F&amp;B, Edukasi, dan Teknologi. Dibuat untuk menunjukkan keterampilan copywriting saya kepada calon perekrut atau klien.
+# Brand Campaign Copywriting Portfolio – Simulasi Klien Fiktif
+Simulasi proyek copywriting untuk 3 brand fiktif di berbagai industri (F&B, Edukasi, dan Teknologi). Tiap brand akan dilengkapi dengan latar belakang, target audiens, dan contoh hasil copywriting (tagline, iklan, landing page, dan konten media sosial).
 # Copywriting Portfolio – Simulasi Klien
 
 Hi! I'm Rangga Ananta Pradana, an aspiring copywriter. This repository contains simulated copywriting projects for fictional brands across various industries.
