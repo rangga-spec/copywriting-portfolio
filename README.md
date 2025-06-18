@@ -6,23 +6,23 @@ Hi! I'm Rangga Ananta Pradana, an aspiring copywriter. This repository contains 
 
 Although I haven't worked with real clients yet, I created these pieces to showcase my writing ability, creativity, and understanding of brand voice and marketing goals.
 
-## 📦 Projects Included
+##  Projects Included
 
-### 1. 🍔 Delizioso Burger (F&B)
+### 1.  Delizioso Burger (F&B)
 - Fun, casual, and appetizing copy for a local burger joint.
 - Includes: Social media captions, ad copy, landing page content.
 
-### 2. 🎓 Learnify (Edutech)
+### 2. Learnify (Edutech)
 - Professional and motivational tone for an e-learning startup.
 - Includes: Email campaign, Instagram captions, homepage copy.
 
-### 3. 🤖 CloudSnap (Tech/SaaS)
+### 3. CloudSnap (Tech/SaaS)
 - Clear, concise, and benefit-driven B2B copy.
 - Includes: Facebook ads, product descriptions, web copy.
 
 ---
 
-## 💬 Notes
+## Notes
 
 All brands are fictional. This portfolio was created as a showcase to demonstrate my copywriting potential to prospective clients or employers.
 
